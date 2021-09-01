@@ -35,6 +35,10 @@
   .main-visual-text {
     color:#fff;
   }
+  .main-visual-name {
+    margin-top: 30px;
+    color: #fff;
+  }
     .main {
     width: 800px;
     margin: 50px auto;
